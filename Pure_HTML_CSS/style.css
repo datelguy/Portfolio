@@ -51,12 +51,8 @@ h1 {
 #objectives {
     margin-top: 30px;
 }
-h2 {
-    padding: 5px;
-    padding-left: 15px;
-}
 
-ul {
+h2, ul {
     padding: 5px;
     padding-left: 15px;
 }
@@ -69,4 +65,8 @@ li {
 
 ul li ul li {
     font-style: italic;
+}
+
+hr {
+    width: 800px;
 }
